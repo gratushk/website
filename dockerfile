@@ -1,3 +1,2 @@
-
-from hsar/webapp
+FROM nginx
 ADD . /var/www/html
