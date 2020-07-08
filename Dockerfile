@@ -1,2 +1,2 @@
-FROM nginx
+FROM httpd 
 ADD . /var/www/html
